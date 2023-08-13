@@ -1,5 +1,7 @@
 # Speech Recognition Program
 
+![Speech-to-text](images/Screenshot-1.png)
+
 This is a simple Python program that utilizes the `speech_recognition` library to perform speech recognition and record audio from a microphone.
 
 ## How it Works
@@ -29,6 +31,10 @@ bash
 - If successful, the recognized text will be displayed.
   
 - The recorded audio will be saved as "recorded.wav" in the same directory.
+
+## Screenshots
+
+![Output Selection](images/Screenshot-2.png)
 
 
 ## Note
