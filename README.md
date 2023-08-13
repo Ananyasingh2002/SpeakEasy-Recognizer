@@ -39,7 +39,7 @@ bash
   
 - The program provides a graphical interface using `tkinter`.
 
-- 
+  
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests if you find any problems or have suggestions for improvement.
