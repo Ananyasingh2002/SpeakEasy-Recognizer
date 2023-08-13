@@ -21,22 +21,22 @@ bash
 ## Usage
 
 - Run the script `SpeakEasy-Recognizer.py`.
-- 
+  
 - Click the "Start Recording" button to begin capturing audio from the microphone.
-- 
+  
 - The program will display the recording and recognition statuses.
-- 
+  
 - If successful, the recognized text will be displayed.
-- 
+  
 - The recorded audio will be saved as "recorded.wav" in the same directory.
 
 
 ## Note
 
 - If an error occurs during recognition, it will be displayed.
-- 
+  
 - The adjust_for_ambient_noise function helps to set ambient noise levels before recording.
-- 
+  
 - The program provides a graphical interface using `tkinter`.
 
 - 
